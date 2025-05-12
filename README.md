@@ -1,3 +1,21 @@
 # Popular AI Logos
 
 This repo contains the logos for popular AI companies and their models. These logos can be useful for creating figures in papers.
+
+## Anthropic
+<img src="Anthropic/claude.pdf" width="200" alt="Claude logo" />
+
+## Deepseek
+<img src="Deepseek/deepseekmain.png" width="200" alt="Deepseek logo" />
+
+## Google
+<img src="Google/gemini_main.pdf" width="200" alt="Gemini Main" /> <img src="Google/gemini_main_Light.pdf" width="200" alt="Gemini Main Light" /> <img src="Google/gemini_flash_white.pdf" width="200" alt="Gemini Flash White" /> <img src="Google/gemini_flash_yellow.pdf" width="200" alt="Gemini Flash Yellow" />
+
+## Meta
+<img src="Meta/meta.pdf" width="200" alt="Meta" /> <img src="Meta/llama_8B.pdf" width="200" alt="Llama 8B" /> <img src="Meta/llama_70B_black.pdf" width="200" alt="Llama 70B Black" /> <img src="Meta/llama_70B_blue.pdf" width="200" alt="Llama 70B Blue" /> <img src="Meta/llama_405B_black.pdf" width="200" alt="Llama 405B Black" /> <img src="Meta/llama_405B_blue.pdf" width="200" alt="Llama 405B Blue" /> <img src="Meta/llama_vision.png" width="200" alt="Llama Vision" />
+
+## OpenAI
+<img src="OpenAI/openai_green.pdf" width="200" alt="OpenAI Green" /> <img src="OpenAI/openai_puprle.pdf" width="200" alt="OpenAI Purple" /> <img src="OpenAI/gpt_4o_mini.pdf" width="200" alt="GPT-4o Mini" />
+
+## Qwen
+<img src="Qwen/qwen_logo.pdf" width="200" alt="Qwen Logo" /> <img src="Qwen/qwq.pdf" width="200" alt="QWQ" />
